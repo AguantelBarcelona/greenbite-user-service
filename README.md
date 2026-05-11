@@ -26,5 +26,5 @@ mvn spring-boot:run
 \`\`\`
 
 ---
-*Desarrollado por Jairo Vicente Huaman Timana*
+*Desarrollado por Jairo Huaman - Vicente Sanchez - Braulio Sanchez*
 EOF
