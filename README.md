@@ -16,17 +16,5 @@ Dentro de la arquitectura de microservicios, el **User Service**:
 
 ## 🚀 Instalación y Compilación
 Para compilar el proyecto y generar el archivo JAR:
-
-\`\`\`bash
-mvn clean install
-\`\`\`
-
-Para ejecutar el servicio localmente:
-
-\`\`\`bash
-mvn spring-boot:run
-\`\`\`
-
----
-*Desarrollado por Jairo Huaman - Vicente Sanchez - Braulio Sanchez*
-EOF
+  ```bash
+  mvn clean install
